@@ -39,26 +39,19 @@ lab2-vpc/
    cd Terraform-project_1/lab2-vpc
 
 
-Initialize Terraform:
-
-bash
-Copy code
+2.Initialize Terraform:
 terraform init
-Preview infrastructure changes:
 
-bash
-Copy code
+3.Preview infrastructure changes:
 terraform plan
-Apply the changes (create resources):
 
-bash
-Copy code
+4.Apply the changes (create resources):
 terraform apply
-Destroy resources when no longer needed:
 
-bash
-Copy code
+5.Destroy resources when no longer needed:
 terraform destroy
+
+
 📌 Notes
 This project is for learning purposes and demonstrates basic Terraform workflows.
 
